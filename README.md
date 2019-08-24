@@ -6,7 +6,7 @@ w/ https://github.com/engincankizilyar
 
 
 ## LoginForm
-<br>![](readme-img/LoginForm.png)<br>
+![](readme-img/LoginForm.png)<br>
 Programımızın ilk açılışında bizi karşılayan ekran. Database’de halihazırda önceden tanımlanmış yetkili kullanıcı bilgileri ile giriş yapılabilen bir ekran aynı zamanda sağ üstteki “Info Button” tıklandığında developer isimlerini “MessageBox” şeklinde gösteriyor.<br>
 
 ## MenuForm
